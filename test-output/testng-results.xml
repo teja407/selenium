@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13267" started-at="2019-06-07T09:24:22Z" finished-at="2019-06-07T09:24:35Z">
+  <suite name="Default suite" duration-ms="74614" started-at="2019-06-07T11:11:02Z" finished-at="2019-06-07T11:12:17Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13267" started-at="2019-06-07T09:24:22Z" finished-at="2019-06-07T09:24:35Z">
+    <test name="Default test" duration-ms="74614" started-at="2019-06-07T11:11:02Z" finished-at="2019-06-07T11:12:17Z">
       <class name="jenkinseltest.TestRep">
-        <test-method status="PASS" signature="disp()[pri:0, instance:jenkinseltest.TestRep@387c703b]" name="disp" duration-ms="13238" started-at="2019-06-07T09:24:22Z" finished-at="2019-06-07T09:24:35Z">
+        <test-method status="PASS" signature="disp()[pri:0, instance:jenkinseltest.TestRep@396a51ab]" name="disp" duration-ms="74576" started-at="2019-06-07T11:11:02Z" finished-at="2019-06-07T11:12:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- disp -->
       </class> <!-- jenkinseltest.TestRep -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

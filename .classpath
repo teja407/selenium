@@ -15,5 +15,7 @@
 	<classpathentry kind="lib" path="C:/Users/chravitejareddy/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/chravitejareddy/Downloads/junit-4.10.jar"/>
 	<classpathentry kind="lib" path="C:/Users/chravitejareddy/Downloads/selenium-server-standalone-3.141.59.jar" sourcepath="/seleniumtest"/>
+	<classpathentry kind="lib" path="C:/Users/chravitejareddy/Downloads/file-utils.jar/file-utils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chravitejareddy/Downloads/org.apache.commons.io.jar/org.apache.commons.io.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
