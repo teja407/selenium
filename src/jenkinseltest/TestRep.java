@@ -30,8 +30,8 @@ public void disp() throws InterruptedException, IOException
 	
 	//driver.findElement(By.name("name")).clear();
 	//driver.findElement(By.name("name")).click(); // Keep this click statement even if you are using click before clear.
-	driver.findElement(By.name("username")).sendKeys("itcinfotech\30143");
-	driver.findElement(By.name("password")).sendKeys("Tej@485!@#");
+	driver.findElement(By.name("username")).sendKeys("itcinfotech\\30143");
+	driver.findElement(By.name("password")).sendKeys("Tej@485!@");
 	
 	TakesScreenshot scrShot =((TakesScreenshot)driver);
 	File SrcFile=scrShot.getScreenshotAs(OutputType.FILE);
